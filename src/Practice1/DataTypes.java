@@ -4,7 +4,7 @@ public class DataTypes {
      public static void main(String[] args) {
     	 int a=25;
          float b=2.5f;
-         char c='a';
+         char c='a'; // Use single code and single character.
          String d="Akhil";
          boolean e= true;
          
