@@ -14,6 +14,20 @@ public class DataTypes {
          System.out.println(d);
          System.out.println(e);
          
+         
+         //casting
+         
+         int x=30;
+         char y=(char)x;
+         
+         char hindi='\u091B';
+         char malayalam='\u0d6a';
+         
+         System.out.println(x);
+         System.out.println(y);
+         
+         System.out.println(hindi);
+       System.out.println(malayalam);
 	}
      
 
