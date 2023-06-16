@@ -27,7 +27,7 @@ public class DataTypes {
          System.out.println(y);
          
          System.out.println(hindi);
-       System.out.println(malayalam);
+         System.out.println(malayalam);
 	}
      
 
